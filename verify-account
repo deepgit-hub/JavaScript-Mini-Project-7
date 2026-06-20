@@ -15,7 +15,7 @@
             <table>
                 <tr>
                     <th>Account Number </th>
-                    <td><input id="account-number-input" placeholder="Enter Account Number"></td>
+                    <td><input id="account-number-input" placeholder="Enter Account Number" type="number"></td>
                 </tr>
             </table>
         </form>
