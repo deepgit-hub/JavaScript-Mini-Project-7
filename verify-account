@@ -1,1 +1,26 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verify Account</title>
+</head>
+<body>
+    <center>
+        <br><br>
+        <br><br>
+        <h1>Verify Your Account Here</h1>
+        <br><br>
+        <form>
+            <table>
+                <tr>
+                    <th>Account Number </th>
+                    <td><input id="account-number-input" placeholder="Enter Account Number"></td>
+                </tr>
+            </table>
+        </form>
+        <br><br><br><br>
+        <button id="verify-account">Verify Account</button>
+    </center>
+</body>
+</html>
