@@ -30,8 +30,8 @@ function createAccount(event)
         age : ageinput.value,
         balance : Number(depostinput.value)
     }
-    console.log(account)
     accounts.push(account)
+    console.log(accounts)
     accountNumberDisplay.textContent = "Your Account Number : " +accountnumber
     popup.style.display="block"
 }
