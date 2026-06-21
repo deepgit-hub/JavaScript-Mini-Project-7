@@ -32,4 +32,6 @@ function createAccount(event)
     }
     console.log(account)
     accounts.push(account)
+    accountNumberDisplay.textContent = "Your Account Number : " +accountnumber
+    popup.style.display="block"
 }
