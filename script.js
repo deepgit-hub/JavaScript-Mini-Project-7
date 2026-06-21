@@ -19,7 +19,9 @@ function createAccount(event)
         alert("Minimum deposit amount should be 1000!!!")
         return
     }
-    let accountnumber = Math.floor(Math.random()*90000)+10000
+    
+        let accountnumber = Math.floor(Math.random()*90000)+10000
+        
     
     let account =
     {
@@ -30,6 +32,7 @@ function createAccount(event)
         age : ageinput.value,
         balance : Number(depostinput.value)
     }
+    
     accounts.push(account)
     console.log(accounts)
     accountNumberDisplay.textContent = "Your Account Number : " +accountnumber
