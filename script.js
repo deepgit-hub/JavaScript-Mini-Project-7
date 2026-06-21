@@ -18,7 +18,7 @@ function createAccount(event)
         return
     }
     let accountnumber = Math.floor(Math.random()*90000)+10000
-    console.log(accountnumber)
+    
     let account =
     {
         accountno : accountnumber,
