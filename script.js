@@ -4,6 +4,8 @@ var ageinput = document.getElementById("age-input")
 var phoneinput = document.getElementById("phone-input")
 var addressinput = document.getElementById("address-input")
 var depostinput = document.getElementById("deposit-input")
+var accountNumberDisplay = document.getElementById("account-number-display")
+var popup = document.getElementById("create-account-popup") 
 function createAccount(event)
 {
     event.preventDefault()
