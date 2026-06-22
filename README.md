@@ -5,6 +5,11 @@
 This project simulates real-world banking operations such as account creation, account verification, deposits, withdrawals, and balance checking through a clean and user-friendly interface.
 
 ---
+## Live Demo
+
+🔗 Live Project: [https://your-github-pages-link-here](https://deepgit-hub.github.io/JavaScript-Mini-Project-7/)
+---
+
 
 ## ✨ Features
 
