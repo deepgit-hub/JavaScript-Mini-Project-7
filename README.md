@@ -29,3 +29,15 @@ Session Storage used to maintain user session 🔄
 🌐 HTML5
 🎨 CSS3
 ⚡ JavaScript (ES6)
+📂 Project Structure
+📁 Banking-Management-System
+│
+├── 🏠 index.html
+├── 👤 create-account.html
+├── 🔐 verify-account.html
+├── ⚙️ operations.html
+├── 💵 deposit.html
+├── 💳 withdraw.html
+├── 📊 balance.html
+├── 🎨 style.css
+└── ⚡ script.js
