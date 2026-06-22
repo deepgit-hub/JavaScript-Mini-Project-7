@@ -2,3 +2,138 @@
 {
     display: none;
 }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+#create-account-popup
+{
+    display: none;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:#f4f7fb;
+    color:#1e293b;
+}
+
+center{
+    margin-top:50px;
+}
+
+h1{
+    font-size:40px;
+    margin-bottom:30px;
+    color:#0f172a;
+}
+
+h2{
+    color:#334155;
+    margin:20px;
+}
+
+table{
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 4px 20px rgba(0,0,0,0.08);
+}
+
+th{
+    text-align:left;
+    padding:15px;
+    font-size:18px;
+}
+
+td{
+    padding:15px;
+}
+
+input{
+    width:280px;
+    padding:12px;
+    border:1px solid #cbd5e1;
+    border-radius:8px;
+    font-size:15px;
+}
+
+input:focus{
+    outline:none;
+    border-color:#2563eb;
+}
+
+button{
+    background:#2563eb;
+    color:white;
+    border:none;
+    padding:12px 24px;
+    border-radius:8px;
+    font-size:15px;
+    font-weight:500;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+button:hover{
+    background:#1d4ed8;
+    transform:translateY(-2px);
+}
+
+#create-account-popup{
+    background:white;
+    width:450px;
+    margin-top:30px;
+    padding:25px;
+    border-radius:12px;
+    box-shadow:0 4px 20px rgba(0,0,0,0.1);
+    display:none;
+}
+
+#balance-display{
+    margin-top:30px;
+    color:#16a34a;
+    font-size:32px;
+    font-weight:600;
+}
+
+a{
+    text-decoration:none;
+}
+/* Operations Page */
+
+#welcome-user{
+    font-size:32px;
+    color:#1e293b;
+    margin:30px 0;
+}
+
+#depositpage-btn,
+#withdrawpage-btn,
+#balancepage-btn,
+#home-btn{
+    width:250px;
+    margin:10px;
+    padding:14px;
+    font-size:18px;
+    font-weight:500;
+}
+#depsosit-amount-input,
+#withdraw-amount-input{
+    width:300px;
+    text-align:center;
+}
+
+#deposit-btn,
+#withdraw-btn,
+#back-btn{
+    width:200px;
+    margin:10px;
+}
+#balance-display{
+    margin-top:30px;
+    font-size:36px;
+    font-weight:600;
+    color:#16a34a;
+}
