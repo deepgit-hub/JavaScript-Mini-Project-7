@@ -25,3 +25,7 @@ Personalized account experience 🎯
 Account information stored using JavaScript Objects 📦
 Multiple accounts managed using Arrays 📚
 Session Storage used to maintain user session 🔄
+🛠 Technologies Used
+🌐 HTML5
+🎨 CSS3
+⚡ JavaScript (ES6)
