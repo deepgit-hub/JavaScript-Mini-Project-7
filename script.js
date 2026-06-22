@@ -1,9 +1,9 @@
-
-console.log("SCRIPT LOADED")
 let accounts =
 JSON.parse(
     sessionStorage.getItem("accounts")
 ) || []
+let currentAccount = JSON.parse(sessionStorage.getItem("currentAccount"))
+document.getElementById("welcome-user").textContent = "Welcome " + currentAccount.name
 var nameinput = document.getElementById("name-input")
 var ageinput = document.getElementById("age-input")
 var phoneinput = document.getElementById("phone-input")
@@ -59,10 +59,14 @@ function verifyAccount(event)
             Number(accountnumberinput.value)
         )
         {
-            alert("Account Verified Successfully")
+            sessionStorage.setItem(
+            "currentAccount",
+            JSON.stringify(accounts[i])
+)
+
+            window.location.href = "operations.html"
             return
         }
     }
-
     alert("Invalid Account Number")
 }
