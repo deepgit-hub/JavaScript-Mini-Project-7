@@ -41,3 +41,18 @@ Session Storage used to maintain user session 🔄
 ├── 📊 balance.html
 ├── 🎨 style.css
 └── ⚡ script.js
+🎯 What I Learned
+
+Through this project, I practiced:
+
+✅ DOM Manipulation
+✅ Functions
+✅ Conditional Statements
+✅ Loops
+✅ Arrays
+✅ Objects
+✅ Session Storage
+✅ Form Validation
+✅ Event Handling
+✅ Multi-Page Navigation
+✅ Problem Solving & Debugging 🐞
