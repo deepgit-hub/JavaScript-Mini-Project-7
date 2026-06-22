@@ -74,3 +74,12 @@ Through this project, I practiced:
 🔥 Session-Based User Login
 
 🔥 Clean & Professional UI
+👨‍💻 Author
+
+Deepak
+
+🚀 Aspiring Front-End Developer
+🔐 Future Cyber Security Professional
+💡 Passionate about building real-world projects and learning modern web technologies.
+
+⭐ If you like this project, don't forget to give it a star!
