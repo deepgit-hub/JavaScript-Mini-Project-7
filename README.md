@@ -9,3 +9,6 @@ Generate a unique account number automatically 🎲
 Minimum deposit validation 💰
 User information validation ✅
 Success popup with account details 🎉
+🔐 Verify Account
+Verify account using account number 🏦
+Access banking operations after successful verification ✅
