@@ -18,3 +18,10 @@ Updated balance is reflected instantly ⚡
 💳 Withdraw Money
 Withdraw money securely 💰
 Prevents withdrawals beyond available balance 🚫
+📊 Check Balance
+View current account balance instantly 👀
+Personalized account experience 🎯
+🗂 Data Management
+Account information stored using JavaScript Objects 📦
+Multiple accounts managed using Arrays 📚
+Session Storage used to maintain user session 🔄
