@@ -63,3 +63,14 @@ Through this project, I practiced:
 💾 Local Storage / Database Integration
 🔒 User Authentication
 📱 Fully Responsive Design
+🌟 Project Highlights
+
+🔥 Multi-Page Banking Application
+
+🔥 Dynamic Account Verification
+
+🔥 Real-Time Deposit & Withdrawal
+
+🔥 Session-Based User Login
+
+🔥 Clean & Professional UI
