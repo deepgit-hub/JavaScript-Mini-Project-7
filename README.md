@@ -12,3 +12,6 @@ Success popup with account details 🎉
 🔐 Verify Account
 Verify account using account number 🏦
 Access banking operations after successful verification ✅
+💵 Deposit Money
+Deposit money into your account 💸
+Updated balance is reflected instantly ⚡
