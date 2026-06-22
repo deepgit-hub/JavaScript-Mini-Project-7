@@ -56,3 +56,10 @@ Through this project, I practiced:
 ✅ Event Handling
 ✅ Multi-Page Navigation
 ✅ Problem Solving & Debugging 🐞
+🚀 Future Improvements
+📜 Transaction History
+✏️ Edit Profile
+🗑️ Delete Account
+💾 Local Storage / Database Integration
+🔒 User Authentication
+📱 Fully Responsive Design
