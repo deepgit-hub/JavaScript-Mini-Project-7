@@ -7,7 +7,7 @@ This project simulates real-world banking operations such as account creation, a
 ---
 ## Live Demo
 
-🔗 Live Project: [https://your-github-pages-link-here](https://deepgit-hub.github.io/JavaScript-Mini-Project-7/)
+🔗 Live Project: [LIVE DEMO](https://deepgit-hub.github.io/JavaScript-Mini-Project-7/)
 ---
 
 
